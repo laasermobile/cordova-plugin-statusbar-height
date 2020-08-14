@@ -9,11 +9,11 @@ cordova plugin add https://github.com/zhushiyao/cordova-plugin-statusbar-height.
 
 ## Methods
 
-### cordova.plugins.StatusBarHeight.getValue
+### window.StatusBarHeight.getValue
 
 
 
-## cordova.plugins.StatusBarHeight.getValue
+## window.StatusBarHeight.getValue
 
 ### Description
 
@@ -24,7 +24,7 @@ cordova plugin add https://github.com/zhushiyao/cordova-plugin-statusbar-height.
 ```javascript
 document.addEventListener('deviceready', getStatusbarHeight, false);
 function getStatusbarHeight() {
-    cordova.plugins.StatusBarHeight.getValue(
+    window.StatusBarHeight.getValue(
         function(value) {
             console.log(value);
         },
