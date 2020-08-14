@@ -4,7 +4,7 @@
 ## Installation
 
 ```bash
-cordova plugin add https://github.com/wangjunget/cordova-plugin-statusbar-height.git
+cordova plugin add https://github.com/zhushiyao/cordova-plugin-statusbar-height.git
 ```
 
 ## Methods
