@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-statusbar-height",
+  "name": "dfocus-fm-cordova-plugin-statusbar-height",
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "cordova-plugin-statusbar-height",
+    "id": "dfocus-fm-cordova-plugin-statusbar-height",
     "platforms": [
       "android",
       "ios"
